@@ -94,7 +94,7 @@ We sell well-known brands like Arduino, Sparkfun, Raspberry Pi, Pololu and many 
 </div>
 <hr>
 
-</div>
+
                 
 
 <! --- Social share --- >
