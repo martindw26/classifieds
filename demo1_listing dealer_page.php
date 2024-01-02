@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>John Deere 7R 290</title>
+    <title>Listing page</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/docs-app/css/dist/mdb5/standard/core.min.css">
     <link rel="stylesheet" id="roboto-subset.css-css" href="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/docs-app/css/mdb5/fonts/roboto-subset.css?ver=3.9.0-update.5" type="text/css"       
     media="all">
-   <link rel="stylesheet" href="https://klsy.dev/Kelsey_classifieds/CSS/style.css">
-   
+   <link rel="stylesheet" href="https://techhobbyist.co.uk/Kelsey_classifieds/CSS/style.css">
+
    <style>
    .hiddenbottom {
  display: none;
@@ -31,90 +31,22 @@
 <div class="col-lg-8">
 <!-- Display Ads -->
 <div class="ad-card">
-  <img src="https://www.farmmachinery.co.uk/wp-content/uploads/2022/07/53189669_large_21681_0.jpg-529cb3951b9b71ac7fc062f08486cbac-400x320.jpg" class="card-img-top" alt="Ad Image">
+  <img src="https://techhobbyist.co.uk/wp-content/uploads/2022/08/Arduino-Nano.png" class="card-img-top" alt="Ad Image">
 <div class="card-body">
-  <h2 class="pt-4 d-flex align-items-left justify-content-left">John Deere 7R 290</h2>
-<h5 class="card-text"><strong>Price: </strong>&#163;168,750</h5>
+  <h2 class="pt-4 d-flex align-items-left justify-content-left">Arduino Nano</h2>
+<h5 class="card-text"><strong>Price: </strong>&#163;22.90</h5>
 <br>
-  <a href="#" class="btn btn-success" id="contactBtn">Contact dealer</a><br>
-
-<!--Seller Name-->
-<br>
-  <p id="name" class="hidden"><strong>Dealer:</strong> Tallis Amos</p>
-
-<!-- Hidden telephone number -->
-  <p id="telephone" class="hidden"><strong>Call Dealer:</strong>Telephone Number: 01386 576666</p>
-
-<!-- Email link -->
-  <a href="mailto:your.email@example.com?subject=Listing%20Inquiry%20on%20Agricultural%20Trader%20John%20Deere%207R%20290">
-  <p class="hidden" id="email">Click to Email dealer</p>
-  </a>
-
-<!-- dealer website link -->
-  <a href="https://www.tallisamosgroup.co.uk/" target="_blank">
-  <p class="hidden" id="dealer">Visit dealers site </p>
-  </a>
-
-<script>
-    // JavaScript to reveal the telephone number and email on button click
-    document.getElementById('contactBtn').addEventListener('click', function (event) {
-        // Prevent the default behavior of jumping to the top of the page
-        event.preventDefault();
-        
-        // Toggle the 'hidden' class to reveal/hide the telephone number and email
-        document.getElementById('name').classList.toggle('hidden');
-        document.getElementById('telephone').classList.toggle('hidden');
-        document.getElementById('email').classList.toggle('hidden');
-       document.getElementById('dealer').classList.toggle('hidden');
-
-    });
-</script>
-
-
-
-  <p class="card-text"> <p class="text-mute">DESCRIPTION</p>50K AUTOPOWER, TLS & ACTIVE SEAT, AUTOTRAC READY, 4 ESCV, 710/75R42 & 600/65R34 TYRES, FOOT SPEED CONTROL THROTTLE, AIR & HYD TRAILER BRAKES, APPROX 1450 HOURS, EX HIRE.</p>
+ 
+  <p class="card-text"> <p class="text-mute">DESCRIPTION</p>The Arduino Nano is a compact, all-inclusive, and versatile board built around the ATmega328 microcontroller (Arduino Nano 3.x). Featuring similar functionalities to the Arduino Duemilanove, the Nano comes in a distinct form factor, making it ideal for use on breadboards. It offers the convenience of a Mini-B USB cable for power and data transmission, although it does not include a DC power jack.</p>
 <div class="container">
 
 <div class="row">
 <div class="col">
-    <h5 class="d-flex align-items-left justify-content-left">Brand</h6>
-<div class="col">
-  <p class="d-flex align-items-left justify-content-left">John Deere</p>
-</div>
-</div>
+   
+<table class="table table-light table-hover table-bordered table-striped p-2">
 
-<div class="col">
-    <h5 class="d-flex align-items-left justify-content-left">Condition</h6>
-  <div class="col">
-    <p class="d-flex align-items-left justify-content-left">Used</p>
-</div>
+</table>
 
-</div>
-<div class="col">
-  <h5 class="d-flex align-items-left justify-content-left">Hours</h6>
-<div class="col">
-  <p class="d-flex align-items-left justify-content-left"></p>
-</div>
-
-</div>
-<div class="col">
-  <h5 class="d-flex align-items-left justify-content-left">Year</h6>
-<div class="col">
-  <p class="d-flex align-items-left justify-content-left"></p>
-</div>
-
-</div>
-<div class="col">
-  <h5 class="d-flex align-items-left justify-content-left">Location</h6>
-<div class="col">
-  <p class="d-flex align-items-left justify-content-left">Gloucestershire</p>
-</div>
-
-</div>
-<div class="col">
-  <h5 class="d-flex align-items-left justify-content-left">Seller</h6>
-<div class="col">
-  <p class="d-flex align-items-left justify-content-left">Tallis Amos Group (TAG)</p>
 </div>
 
 </div>
@@ -123,55 +55,24 @@
 </div>
 <hr>
 
-  <a href="#" class="btn btn-success" id="contactBtnBottom">Contact dealer</a><br>
-
-<!--Seller Name-->
-<br>
-  <p id="namebottom" class="hiddenbottom"><strong>Dealer:</strong> Tallis Amos</p>
-
-<!-- Hidden telephone number -->
-  <p id="telephonebottom" class="hiddenbottom"><strong>Call Dealer:</strong>Telephone Number: 01386 576666</p>
-
-<!-- Email link -->
-  <a href="mailto:your.email@example.com?subject=Listing%20Inquiry%20on%20Agricultural%20Trader%20John%20Deere%207R%20290">
-  <p class="hiddenbottom" id="emailbottom">Click to Email dealer</p>
-  </a>
-
-<!-- dealer website link -->
-  <a href="https://www.tallisamosgroup.co.uk/" target="_blank">
-  <p class="hiddenbottom" id="dealerbottom">Visit dealers site </p>
-  </a>
-
-<script>
-    // JavaScript to reveal the telephone number and email on button click
-    document.getElementById('contactBtnBottom').addEventListener('click', function (event) {
-        // Prevent the default behavior of jumping to the top of the page
-        event.preventDefault();
-        
-        // Toggle the 'hidden' class to reveal/hide the telephone number and email
-        document.getElementById('namebottom').classList.toggle('hiddenbottom');
-        document.getElementById('telephonebottom').classList.toggle('hiddenbottom');
-        document.getElementById('emailbottom').classList.toggle('hiddenbottom');
-       document.getElementById('dealerbottom').classList.toggle('hiddenbottom');
-
-    });
-</script>
-
 <div class="container mt-5">
 <div class="row equal-height-container">
 <div class="col equal-height-column">
 
-<h5>More about the the dealer</h5>
+<h5>More about the the retailer</h5>
 <div class="h-100 p-4">
-<img src="https://www.farmmachinery.co.uk/wp-content/uploads/2021/06/TAG_Logo-High-Res.jpg" class="card-img-top p-2" alt="...">
+<img src="https://coolcomponents.co.uk/cdn/shop/files/CCLogo250_2x_d26d1922-11a3-4f67-bdb6-c43f4399613f_501x119.png?v=1613683848" class="card-img-top p-2" alt="...">
 
 </div>
 </div>
 <div class="col equal-height-column">
 
 <div class="h-100 p-4">
-  <h2>About Tallis Amos Group (TAG) </h2>
-  <p>Tallis Amos Group (TAG) are one of the oldest John Deere dealerships in the UK with farming roots that can be traced back to the late 1800s. We supply and support a full range of quality products for agricultural, turf care and commercial customers from a comprehensive array of machinery partners.</p>
+  <h2>About Cool Components </h2>
+  <p>Cool Components is an online retailer of cutting-edge electronic components.
+The company started trading in 2004 because of the difficulty of finding useful electronics 'stuff' at a reasonable price. Now, more than 13 years later, we've served hundreds of thousands of happy customers, many of whom come back time after time.
+We pride ourselves on being a family business, with a commitment to the highest levels of customer service and technical support. Because of this, our customers include hobbyists and makers, students, academics, as well as institutions including universities, NHS trusts and commercial companies.
+We sell well-known brands like Arduino, Sparkfun, Raspberry Pi, Pololu and many more alongside our own range of products. We were one of the first companies to sell affordable non-kit 3D printers in Europe, and we're continuing to push frontiers with DNA research technology, LIDAR and drone innovations.</p>
 </div>
 </div>
 </div>
@@ -195,16 +96,6 @@
 
 </div>
                 
-<div class="container">
- <div class="row">
-    <div class="col-6 col-sm-2">
-      <button class="btn btn-success w-100 h-100" type="submit">Post an advert</button>
-    </div>
-    <div class="col-6 col-sm-2">
-      <button class="btn btn-success w-100 h-100" type="submit">My account</button>
-    </div>
-  </div>
-</div><br><hr>
 
 <! --- Social share --- >
   <span style="display:flex; padding-top: 5px; align-items:center;"><h4 style="margin-right:10px;">Share this listing:
@@ -224,31 +115,31 @@
   <button class="btn btn-success" type="submit">Search</button>
 </form>
 </div>
-<p class="fs-5 fw-bold p-2 text-wrap" >More from Tallis Amos Group (TAG)</p>
+<p class="fs-5 fw-bold p-2 text-wrap" >More from cool components</p>
 <!-- Additional Cards at the Bottom -->
 <div class="card bottom-card">
-  <img src="https://www.farmmachinery.co.uk/wp-content/uploads/2023/10/IMG_0118.jpeg-62e7d0e6a36acaa66698d1d3824f016e-400x320.jpeg" class="card-img-top" alt="Bottom Card 1">
+  <img src="https://coolcomponents.co.uk/cdn/shop/products/arduino-mega-2560-r3-original-boards-cool-components-349_447x354.jpg?v=1600953673" class="card-img-top" alt="Bottom Card 1">
   <div class="card-body">
-  <h5 class="card-title">John Deere 1130 Tractor</h5>
-  <p class="card-text">&#163;4,400</p>
+  <h5 class="card-title">Arduino Mega 2560 R3</h5>
+  <p class="card-text">&#163;36/p>
   <button type="button" class="btn btn-success">View listing</button>
 </div>
 </div>
 
 <div class="card bottom-card">
-  <img src="https://www.farmmachinery.co.uk/wp-content/uploads/2023/06/IMG_5930.jpeg-845ee1c1ab84f7da54361eb2479b3832-400x320.jpeg" class="card-img-top" alt="Bottom Card 2">
+  <img src="https://coolcomponents.co.uk/cdn/shop/products/arduino-micro-with-headers-original-boards-cool-components-642_473x355.jpg?v=1650987703" class="card-img-top" alt="Bottom Card 2">
 <div class="card-body">
-  <h5 class="card-title">Iseki 2160 compact tractor</h5>
-  <p class="card-text">&#163;3,750</p>
+  <h5 class="card-title">Arduino Micro (With Headers)</h5>
+  <p class="card-text">&#163;25</p>
   <button type="button" class="btn btn-success">View listing</div>
 </div>
 
 
 <div class="card bottom-card">
-  <img src="https://www.farmmachinery.co.uk/wp-content/uploads/2023/10/20231017_141439.jpg-70b08d43a465b9ed2a2cceb378cb02a7-400x320.jpg" class="card-img-top" alt="Bottom Card 3">
+  <img src="https://coolcomponents.co.uk/cdn/shop/products/arduino-mkr-wifi-1010-cortex-dev-boards-cool-components_663_473x355.jpg?v=1539601265" class="card-img-top" alt="Bottom Card 3">
 <div class="card-body">
-  <h5 class="card-title">Grey Ferguson</h5>
-  <p class="card-text">&#163;1,150</p>
+  <h5 class="card-title">Arduino MKR WiFi 1010</h5>
+  <p class="card-text">&#163;40.99</p>
   <button type="button" class="btn btn-success">View listing</button>
 </div>
 </div>
