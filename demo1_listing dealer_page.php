@@ -121,7 +121,7 @@ We sell well-known brands like Arduino, Sparkfun, Raspberry Pi, Pololu and many 
   <img src="https://coolcomponents.co.uk/cdn/shop/products/arduino-mega-2560-r3-original-boards-cool-components-349_447x354.jpg?v=1600953673" class="card-img-top" alt="Bottom Card 1">
   <div class="card-body">
   <h5 class="card-title">Arduino Mega 2560 R3</h5>
-  <p class="card-text">&#163;36/p>
+  <p class="card-text">&#163;36</p>
   <button type="button" class="btn btn-success">View listing</button>
 </div>
 </div>
