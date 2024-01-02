@@ -1,0 +1,83 @@
+/* Custom Styles */
+        .sidebar {
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+
+        .category-card, .filter-card, .bottom-card {
+            margin-bottom: 15px;
+        }
+
+        .category-card img, .filter-card img, .bottom-card img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .main-content {
+            padding: 20px;
+        }
+
+        .ad-card {
+            margin-bottom: 20px;
+        }
+
+        .ad-card img {
+            max-width: 100%;
+            height: auto;
+         }   
+
+	  .hidden {
+            display: none;
+	 }
+
+     .hiddenbottom {
+      display: none;
+	 }
+         .sidebar_ads{
+            height:600px;
+            border: 1px solid black;
+         }
+         .header_ads{
+            padding:10px;
+            height:105px;
+            width: 735px;	
+            border: 1px solid black;
+         }
+
+	.footer{
+	height:200px;
+	padding:0px;
+	color:white;
+    	background: black;
+	}
+
+	.footer-menu-1,
+	footer-menu-2 {
+    	list-style-type: none;
+    	padding: 0;
+	}
+
+	.footer-menu-1 li,
+	.footer-menu-2 li {
+    	margin-bottom: 5px;
+	}
+
+	.footer-menu-1 a,
+	.footer-menu-2 a {
+    	text-decoration: none;
+    	color: white;
+	}
+
+    /* Add custom styles here if needed */
+    .custom-list {
+      list-style: none;
+      line-height: 1.8;
+    }
+    
+    .featured-title-price{
+    background-color: orange;
+    }
+    
+    .featured-title-price-list{
+    background-color: #fde67a
+    }
